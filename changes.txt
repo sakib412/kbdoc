@@ -1,0 +1,54 @@
+----- 1.1.9 (04 September 2020) -----
+Tweaked: Search input field focus by pressing the "/" (slash) key of keyboard
+Tweaked: Banner design improved Home Cool (img/home_one/banner_bg_two.png removed)
+Tweaked: Overall design improved
+
+----- 1.1.8 (16 August 2020) -----
+New: Keyboard Shortcuts page (keyboard-shortcuts.html)
+Tweaked: Doc title changed to h1 from h2
+Tweaked: Responsiveness
+
+----- 1.1.7 (15 August 2020) -----
+Tweaked: Responsiveness
+Tweaked: Back to Top button's design improved
+
+----- 1.1.6 (27 June 2020) -----
+New: Forum Archive page
+New: Back to Top button
+Tweaked: Improved the forum design
+Tweaked: Forum page responsiveness
+
+----- 1.1.5 (10 June 2020) -----
+New: AutoPlay video
+New: YouTube channel video playlist
+New: Custom scrollbar style
+
+----- 1.1.4 (02 June 2020) -----
+New: Help-desk Homepage Template
+New: Forum Archive Page
+New: Forum Single Page
+
+----- 1.1.3 (22 May 2020) -----
+Fixed: Onepage and Full-width doc page's responsive issues
+Fixed: Pre-loader loading issue
+Fixed: Mega Menu border top missing on white navbar
+Tweaked: Removed unnecessary assets (CSS, Js files) from the pages
+New: Image caption and Magnify Image added to the Image page
+
+----- 1.1.2 (4 May 2020) -----
+Tweaked: Dark Mode Colors
+Tweaked: Onepage documentation layout
+
+----- 1.1.1 (4 May 2020) -----
+Tweaked: Typography
+Fixed: Documentation print area
+Fixed: Pre-loader paragraph text appear time on loading
+
+----- 1.1.0 (26 April 2020) -----
+Tweaked: Onepage documentation (improved some spacing and styles)
+Tweaked: Tooltip, Lightbox, Typography page content updated and re-arranged
+Tweaked: All doc page content re-arranged
+Fixed: Some responsive issues
+
+----- 1.0.0 (22 April 2020) -----
+Initial release
